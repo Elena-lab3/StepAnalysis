@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "lRXyDzhL55bvicebznU69o/a7l6z/ObDNcnP1XfW6tLTfdZdAaNOMN8OspIqVxmRmoDvTthSyBMuILKyxLeUeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arseni\\source\\repos\\Test1\\Test1\\Test1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arseni\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\arseni\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0\\microsoft.win32.systemevents.4.6.0.nupkg.sha512",
+    "C:\\Users\\arseni\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\arseni\\.nuget\\packages\\scottplot\\4.1.58\\scottplot.4.1.58.nupkg.sha512",
+    "C:\\Users\\arseni\\.nuget\\packages\\scottplot.wpf\\4.1.58\\scottplot.wpf.4.1.58.nupkg.sha512",
+    "C:\\Users\\arseni\\.nuget\\packages\\system.drawing.common\\4.6.1\\system.drawing.common.4.6.1.nupkg.sha512",
+    "C:\\Users\\arseni\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
